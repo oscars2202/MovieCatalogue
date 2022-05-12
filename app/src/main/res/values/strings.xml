@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">TV Shows</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="Poster">poster</string>
+    <string name="playTrailer">Play Trailer</string>
+    <string name="team">Teams</string>
+    <string name="name">Name</string>
+    <string name="rate">Rate: </string>
+    <string name="release">Release: </string>
+    <string name="favorite">Favorite</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="message_undo">Cancel deleting favorite?</string>
+    <string name="message_ok">OK</string>
+</resources>
